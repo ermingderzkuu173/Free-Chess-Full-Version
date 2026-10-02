@@ -229,4 +229,4 @@ This repository serves as the official landing page for Free Chess. The software
 **Get the most recent version of Free Chess today!**
 
 ---
-**Last updated:** 2026-10-01 20:12:26 UTC
+**Last updated:** 2026-10-02 00:24:21 UTC
